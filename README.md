@@ -1,4 +1,9 @@
+This project allows you to watch any movie on the ingfilm website without a subscription.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Preview:
+https://sijykijy.github.io/ingfilmBypass-react/
 
 ## Available Scripts
 
