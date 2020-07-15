@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ingfilmBypass-react/precache-manifest.107fa085b5f5c754cb3c18dc93f49909.js"
+  "/ingfilmBypass-react/precache-manifest.c55564e9070b7a04aa5db016f2f19021.js"
 );
 
 self.addEventListener('message', (event) => {
