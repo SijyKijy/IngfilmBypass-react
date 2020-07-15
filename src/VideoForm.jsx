@@ -32,6 +32,8 @@ class VideoForm extends React.Component {
           title="BypassVideo"
           className="responsive-iframe"
           src={`http://ingfilm.ru/vdb/` + this.state.value + `.html`}
+          frameborder="0"
+          allowfullscreen=""
         />
       );
     } else {
