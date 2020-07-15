@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ingfilmBypass-react/static/css/main.1a0f5190.chunk.css",
+    "main.js": "/ingfilmBypass-react/static/js/main.c317e8dd.chunk.js",
+    "runtime-main.js": "/ingfilmBypass-react/static/js/runtime-main.0bd0dad0.js",
+    "static/js/2.187e7e08.chunk.js": "/ingfilmBypass-react/static/js/2.187e7e08.chunk.js",
+    "index.html": "/ingfilmBypass-react/index.html",
+    "precache-manifest.107fa085b5f5c754cb3c18dc93f49909.js": "/ingfilmBypass-react/precache-manifest.107fa085b5f5c754cb3c18dc93f49909.js",
+    "service-worker.js": "/ingfilmBypass-react/service-worker.js",
+    "static/js/2.187e7e08.chunk.js.LICENSE.txt": "/ingfilmBypass-react/static/js/2.187e7e08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd0dad0.js",
+    "static/js/2.187e7e08.chunk.js",
+    "static/css/main.1a0f5190.chunk.css",
+    "static/js/main.c317e8dd.chunk.js"
+  ]
+}
