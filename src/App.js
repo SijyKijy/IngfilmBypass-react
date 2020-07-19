@@ -1,13 +1,12 @@
 import React from 'react';
 
-import Header from './Header';
-import Form from './VideoForm';
+import { Header, VideoForm } from './components';
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Form />
+      <VideoForm />
     </div>
   );
 }
