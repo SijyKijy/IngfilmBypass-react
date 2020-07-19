@@ -1,3 +1,5 @@
+@import '../variables';
+
 .responsive-iframe {
   border: none;
   position: absolute;
@@ -7,4 +9,14 @@
   right: 0;
   width: 100%;
   height: 100%;
+}
+
+.darkButton {
+  background-color: #343434;
+  color: $text;
+}
+
+input {
+  background-color: $inputBackground;
+  color: $text;
 }

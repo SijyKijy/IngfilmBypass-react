@@ -41,6 +41,7 @@ class VideoForm extends React.Component {
         <div>
           <input type="text" ref value={this.state.value} onChange={this.handleChange} />
           <button
+            className="darkButton"
             onClick={() => {
               this.checkUrl();
             }}>
